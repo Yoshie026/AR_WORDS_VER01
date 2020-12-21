@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: Akasaka_PrefavDb
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: Only only
+    Prefab: {fileID: -927199367670048503, guid: 2c83b40ce49bd41a985d9f4d42d211a4,
+      type: 3}
+  - MeshId: Where am I now
+    Prefab: {fileID: -927199367670048503, guid: 6cbb23f907aa54ad088950944f9c9272,
+      type: 3}
+  - MeshId: Only
+    Prefab: {fileID: -927199367670048503, guid: 7489594c0a3de41ff97415a82908d1c3,
+      type: 3}
+  - MeshId: Nonsense
+    Prefab: {fileID: -927199367670048503, guid: 7ed9a15d6a33e4db395a8f2d5477013c,
+      type: 3}
+  - MeshId: Keep it fake
+    Prefab: {fileID: -927199367670048503, guid: 2a796d16405e7401c979ab9e6f2d95f4,
+      type: 3}
+  - MeshId: Who are you
+    Prefab: {fileID: -927199367670048503, guid: 2f10c2f931bd54967bf396a4244a3fcd,
+      type: 3}
+  - MeshId: Center
+    Prefab: {fileID: -927199367670048503, guid: 26305176e290e469bb279b752b97a604,
+      type: 3}
+  - MeshId: Out of
+    Prefab: {fileID: -927199367670048503, guid: 8a56ddf12e9234ca788d10115514014c,
+      type: 3}
+  - MeshId: Now in blank
+    Prefab: {fileID: -927199367670048503, guid: c8306daabf27146d1b63c99748a41195,
+      type: 3}

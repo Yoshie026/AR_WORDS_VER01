@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Aumented Word in the city</name>
+    <description/>
+    <Style id="icon-1899-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Folder>
+      <name>augumented</name>
+      <Placemark>
+        <name>noisy</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7004285,35.6594867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>only</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7005776,35.6596215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>who is mad</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6993947,35.659543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>take me</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6977157,35.6590767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>why</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7003894,35.6580505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>now in blank</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7016372,35.657225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cut Loose</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7069292,35.652057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>be nonsense</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7007042,35.6604535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Love or Hate</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6969392,35.6605343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>keep it fake</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6982061,35.6610166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>who are you</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6987143,35.6607942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>culture is</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6988375,35.6616898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>only only</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7020581,35.6619215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snap Life</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7013461,35.6633341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>where am i now</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7020298,35.6636065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>I am</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7059672,35.666448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lose and Born</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7021661,35.6614547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whatever</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7014506,35.6603164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Somehow hate</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7014345,35.659581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>center?</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7001845,35.6597224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Out of</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7008104,35.6623136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

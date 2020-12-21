@@ -1,0 +1,13 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/Resources/Prefabs/
+/Assets/Resources/UI/
+/GPS_V18
+
+
+# Visual Studio cache directory
+.vs/
+

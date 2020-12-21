@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: Shibuya_PrefabDb
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: 03_noisy
+    Prefab: {fileID: -927199367670048503, guid: 35949b7d10e6c4a0a8badad2fb109002,
+      type: 3}
+  - MeshId: 04_love or hate
+    Prefab: {fileID: -927199367670048503, guid: 243c8f7919d9149acafb3c1fc5b1e716,
+      type: 3}
+  - MeshId: 05_why
+    Prefab: {fileID: -927199367670048503, guid: ecf4abd716ed04ebd8a34645fd4c8ccc,
+      type: 3}
+  - MeshId: 06_now in blank
+    Prefab: {fileID: -927199367670048503, guid: 0ba4faed770b74ee8bcc8962a48e727b,
+      type: 3}
+  - MeshId: 07_lose and born
+    Prefab: {fileID: -927199367670048503, guid: 9c339b4425c024656ad2159fb6ada2c4,
+      type: 3}
+  - MeshId: 08_culture is
+    Prefab: {fileID: -927199367670048503, guid: 427c53706ac3d4e8daa00bcce22732ee,
+      type: 3}
+  - MeshId: 09_where
+    Prefab: {fileID: -927199367670048503, guid: b8fec1c50e3584f36ad937953e67e4f6,
+      type: 3}
+  - MeshId: 10_who are you
+    Prefab: {fileID: -927199367670048503, guid: 034b2f3c01f474f2a8010de75d826c93,
+      type: 3}
+  - MeshId: 11_be nonsense
+    Prefab: {fileID: -927199367670048503, guid: f67721189a8e24264902fb74dca06505,
+      type: 3}
+  - MeshId: 12_2_snap life
+    Prefab: {fileID: -927199367670048503, guid: e14c065d79b454210aefe4f30f4cfbfa,
+      type: 3}
+  - MeshId: 13_i am
+    Prefab: {fileID: -927199367670048503, guid: bf87f3eca48674317af55a7e33fdd205,
+      type: 3}
+  - MeshId: 14_onlyonly
+    Prefab: {fileID: -927199367670048503, guid: 464b22707b6a6461b91f047563f74b8e,
+      type: 3}
+  - MeshId: 15_cut loose
+    Prefab: {fileID: -927199367670048503, guid: 8d704c929eacc4538b2d264f9263340d,
+      type: 3}
+  - MeshId: 16_whatever
+    Prefab: {fileID: -927199367670048503, guid: 588c6966e4c374346b600d94b316a024,
+      type: 3}
+  - MeshId: 17_somehow hate
+    Prefab: {fileID: -927199367670048503, guid: 7c49dae97852e457394f43e938bab406,
+      type: 3}
+  - MeshId: 18_out of
+    Prefab: {fileID: -927199367670048503, guid: b4ed86d0188fa45608b9827d8ff84a03,
+      type: 3}
+  - MeshId: 19_who is mad
+    Prefab: {fileID: -927199367670048503, guid: f44d6018efdbf46a19fdc05212feecec,
+      type: 3}
+  - MeshId: 20_keep it fake
+    Prefab: {fileID: -927199367670048503, guid: babc934eba4fe415fa1400929ac9cb10,
+      type: 3}
+  - MeshId: 21_take me
+    Prefab: {fileID: -927199367670048503, guid: 6297cee8b729243e393b3f7ce3aa7191,
+      type: 3}
+  - MeshId: 01_center
+    Prefab: {fileID: -927199367670048503, guid: 66e27514a9e3648b89619a95156dd005,
+      type: 3}
